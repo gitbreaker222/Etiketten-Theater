@@ -19,6 +19,6 @@ A4 mit 2x3 Raster
 - [ ] Terpentin
 - [ ] Lava
 - [ ] Snack für Zwischendurch
-- [ ] Käsebrot
+- [ ] Knäckebrot
 - [ ] Chips
 - [ ] Pommes
