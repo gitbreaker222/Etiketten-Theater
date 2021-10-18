@@ -1,5 +1,5 @@
 # Etiketten-Theater
-Bier-Etiketten als Druckvorlage für den schnellen Partyspaß. Könntest du mir noch nen Kuchen reichen? 
+Bier-Etiketten als Druckvorlage für den schnellen Partyspaß am Morgen danach. Könntest du mir noch nen Kuchen reichen? 
 
 ## Format
 
