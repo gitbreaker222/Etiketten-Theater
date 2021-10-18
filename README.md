@@ -14,11 +14,11 @@ A4 mit 2x3 Raster
 ## Motive
 
 - [ ] Kaffee
+- [ ] Kräutertee
 - [ ] Kuchen
 - [ ] Mundseife
 - [ ] Terpentin
 - [ ] Lava
-- [ ] Snack für Zwischendurch
 - [ ] Knäckebrot
 - [ ] Chips
 - [ ] Pommes
