@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <style>
+      @media screen {
+        * {box-shadow: 0 0 2px black inset;}
+      }
+      
+      body {
+        height: 210mm;
+        width: 297mm;
+        display: grid;
+        margin: 0;
+      }
+
+      aside {position: absolute}
+
+      main {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 1rem;
+        grid-gap: 1vmax;
+        place-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <aside>Seite 1</aside>
+    <main>
+      <section id="s1_e1">etikett 1</section>
+      <section id="s1_e2">etikett 2</section>
+      <section id="s1_e3">etikett 3</section>
+      <section id="s1_e4">etikett 4</section>
+      <section id="s1_e5">etikett 5</section>
+      <section id="s1_e6">etikett 6</section>
+    </main>
+  </body>
+</html>
