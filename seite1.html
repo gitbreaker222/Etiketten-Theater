@@ -4,8 +4,12 @@
       @media screen {
         * {box-shadow: 0 0 2px black inset;}
       }
+      @page {
+        size: A4;
+        margin: 0;
+      }
       
-      body {
+      html, body {
         height: 210mm;
         width: 297mm;
         display: grid;
@@ -25,14 +29,16 @@
     </style>
   </head>
   <body>
-    <aside>Seite 1</aside>
-    <main>
-      <section id="s1_e1">etikett 1</section>
-      <section id="s1_e2">etikett 2</section>
-      <section id="s1_e3">etikett 3</section>
-      <section id="s1_e4">etikett 4</section>
-      <section id="s1_e5">etikett 5</section>
-      <section id="s1_e6">etikett 6</section>
-    </main>
+    <div class="page">
+      <aside>Seite 1</aside>
+      <main>
+        <section id="s1_e1">etikett 1</section>
+        <section id="s1_e2">etikett 2</section>
+        <section id="s1_e3">etikett 3</section>
+        <section id="s1_e4">etikett 4</section>
+        <section id="s1_e5">etikett 5</section>
+        <section id="s1_e6">etikett 6</section>
+      </main>
+    </div>
   </body>
 </html>
